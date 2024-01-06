@@ -1,0 +1,1 @@
+This repository contains code for an animated clock web application built using HTML,CSS & JavaScript. The clock features a stylish design with a gradient background, a central clock display, and additional visual elements for aesthetic appeal.
